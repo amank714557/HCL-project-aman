@@ -1,0 +1,18 @@
+PROJECT SYNOPSIS
+Title: Student Performance Analysis and Prediction Using Machine Learning
+
+This project integrates the five completed CoE modules. Python and OOP are
+used to structure the application. SQLite stores the student dataset. NumPy
+calculates statistical measures. Pandas handles data analysis and Matplotlib
+creates charts. A Random Forest classifier predicts a broad performance
+category from sample student indicators.
+
+Dataset: 500 synthetic demonstration records.
+Expected output: summary statistics, database table, charts, model evaluation
+metrics and a sample prediction.
+
+Student Details
+Name: Aman Kumar
+University Roll Number: 2400320100154
+Admission Number: 2024B0101506
+Section: CSE 12
